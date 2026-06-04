@@ -89,3 +89,13 @@ Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di 
 ### ⭐ Thanks for visiting my profile!
 
 </div>
+
+---
+
+
+# 🕹️ Pac-Man Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+</p>
+

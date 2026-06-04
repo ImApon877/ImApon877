@@ -80,6 +80,12 @@ Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di 
 
 <div align="center">
 
+## 📈 My Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImApon877&theme=tokyo-night)
+
+---
+
 ### ⭐ Thanks for visiting my profile!
 
 </div>

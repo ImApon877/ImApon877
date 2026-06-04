@@ -92,6 +92,7 @@ Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di 
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=ImApon877&color=blue)
 
 # 🕹️ Pac-Man Contributions
 

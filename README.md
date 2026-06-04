@@ -76,9 +76,9 @@ Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di 
 
 > "The best way to predict the future is to build it."
 
----
-
 <div align="center">
+
+---
 
 ## 📈 My Activity
 

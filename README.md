@@ -96,8 +96,8 @@ Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di 
 
 ---
 
-# 🐍 Snake Contributions
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/github-contribution-grid-snake-dark.svg">
 </p>

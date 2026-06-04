@@ -1,16 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ImApon877/ImApon877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ APON ⚡
 
-Here are some ideas to get you started:
+### 🐍 Python Developer • Builder • Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+Developer;Automation+Creator;Problem+Solver;Building+New+Ideas;Always+Learning" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+Ciao! Sono **Apon**.
+
+Mi piace sviluppare applicazioni e automazioni in **Python**, sperimentare nuove idee e trasformare progetti in qualcosa di reale.
+
+Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di nuovo.
+
+---
+
+# 🚀 What I'm Working On
+
+* 🐍 Python Projects
+* 🤖 Automation Tools
+* 🌐 Web Development
+* 💡 New Digital Ideas
+* 📚 Continuous Learning
+
+---
+
+# 🛠️ Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImApon877\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImApon877\&layout=compact\&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎯 Goals
+
+✔ Improve my Python skills
+
+✔ Build useful software
+
+✔ Create innovative projects
+
+✔ Keep learning every day
+
+---
+
+# 💭 Favorite Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>

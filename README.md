@@ -94,12 +94,6 @@ Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ImApon877&color=blue)
 
-# 🕹️ Pac-Man Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
-</p>
-
 ---
 
 # 🐍 Snake Contributions

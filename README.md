@@ -100,3 +100,10 @@ Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di 
   <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>
 
+---
+
+# 🐍 Snake Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>

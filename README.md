@@ -1,91 +1,123 @@
 <div align="center">
 
-# ⚡ APON ⚡
+# ⚡ Ciao, sono Apon
 
-### 🐍 Python Developer • Builder • Tech Enthusiast
+### Junior Developer • Automation Creator • Minecraft Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Python+Developer;Automation+Creator;Problem+Solver;Building+New+Ideas;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Python+%26+Node.js+Developer;Learning+Java+Every+Day;Building+Bots%2C+Plugins+and+Automation;Turning+Ideas+into+Real+Projects" alt="Typing SVG" />
 
-</div>
+<br>
 
----
-
-# 👨‍💻 About Me
-
-Ciao! Sono **Apon**.
-
-Mi piace sviluppare applicazioni e automazioni in **Python**, sperimentare nuove idee e trasformare progetti in qualcosa di reale.
-
-Sono sempre alla ricerca di nuove sfide e opportunità per imparare qualcosa di nuovo.
-
----
-
-# 🚀 What I'm Working On
-
-* 🐍 Python Projects
-* 🤖 Automation Tools
-* 🌐 Web Development
-* 💡 New Digital Ideas
-* 📚 Continuous Learning
-
----
-
-# 🛠️ Technologies
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+<a href="https://github.com/ImApon877?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_my_projects-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+</a>
 
 </div>
 
 ---
 
-# 🎯 Goals
+## 👨‍💻 About Me
 
-✔ Improve my Python skills
+Ciao! Sono **Apon**, uno sviluppatore appassionato di tecnologia e creazione di progetti digitali.
 
-✔ Build useful software
+Ho iniziato programmando in **Python** e oggi sto ampliando le mie competenze con **Node.js**, **Java** e lo sviluppo web. Mi piace costruire bot, automazioni, plugin e strumenti realmente utili, imparando attraverso progetti concreti e nuove sfide.
 
-✔ Create innovative projects
-
-✔ Keep learning every day
-
----
-
-# 💭 Favorite Quote
-
-> "The best way to predict the future is to build it."
-
-<div align="center">
+- 🔭 Lavoro su bot, automazioni e progetti per community Minecraft
+- 🌱 Sto approfondendo **Node.js**, **Java** e lo sviluppo backend
+- 🧩 Mi piace risolvere problemi e trasformare idee in codice
+- 🎯 Il mio obiettivo è creare software sempre più completo, sicuro e professionale
+- 💬 Sono aperto a collaborazioni, feedback e nuove opportunità
 
 ---
 
-## 📈 My Activity
+## 🚀 What I'm Building
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImApon877&theme=tokyo-night)
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-</div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ImApon877&color=blue)
+- 🤖 **Discord Bot** — automazione, moderazione e gestione delle community
+- ⛏️ **Minecraft Tools & Plugins** — funzionalità personalizzate per server Minecraft
+- 🐍 **Python Projects** — script, utility e automazioni
+- 🟢 **Node.js Applications** — bot, API e servizi backend
+- ☕ **Java Projects** — studio e sviluppo di plugin e applicazioni
+- 🌐 **Web Projects** — interfacce e siti con HTML e CSS
 
 ---
 
-## 🐍 Contribution Snake
+## 🛠️ Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,java,js,html,css" alt="Python, Node.js, Java, JavaScript, HTML and CSS" />
 </p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,discord,bots" alt="Git, GitHub, VS Code, npm, Discord and bots" />
+</p>
+
+> **Currently learning:** sto consolidando le mie competenze in Node.js e Java attraverso la pratica e lo sviluppo di nuovi progetti.
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ImApon877/LightningGrim">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImApon877&repo=LightningGrim&theme=tokyonight&hide_border=true" alt="LightningGrim repository" />
+</a>
+
+</div>
+
+> Altri progetti sono in arrivo. Dai un'occhiata ai miei [repository](https://github.com/ImApon877?tab=repositories) per seguire i miei progressi.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImApon877&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Apon's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImApon877&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImApon877&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImApon877&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 🎯 My Goals
+
+- Migliorare ogni giorno in **Python**, **Node.js** e **Java**
+- Sviluppare progetti completi, utili e ben documentati
+- Imparare a progettare API e applicazioni backend
+- Contribuire a progetti open source
+- Collaborare con altri developer e crescere insieme
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</div>
+
+---
+
+## 💭 Favorite Quote
+
+<div align="center">
+
+> *“The best way to predict the future is to build it.”*
+
+### ⭐ Grazie per aver visitato il mio profilo!
+
+<img src="https://komarev.com/ghpvc/?username=ImApon877&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile views" />
+
+</div>

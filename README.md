@@ -2,115 +2,136 @@
 
 # ⚡ Ciao, sono Apon
 
-### Junior Developer • Automation Creator • Minecraft Enthusiast
+### Junior Developer • Minecraft Plugin Developer • Automation Creator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Python+%26+Node.js+Developer;Learning+Java+Every+Day;Building+Bots%2C+Plugins+and+Automation;Turning+Ideas+into+Real+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Java+Plugins+for+Minecraft+Servers;Python+%26+Node.js+Developer;Building+Bots%2C+Tools+and+Automation;Turning+Ideas+into+Real+Projects" alt="Python, Node.js e Java developer" />
 
 <br>
 
 <a href="https://github.com/ImApon877?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_my_projects-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  <img src="https://img.shields.io/badge/I_miei_progetti-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="I miei progetti" />
 </a>
+<img src="https://img.shields.io/badge/Minecraft_Plugins-1F2937?style=for-the-badge&logo=openjdk&logoColor=white" alt="Minecraft plugins" />
+<img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord bots" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Chi sono
 
-Ciao! Sono **Apon**, uno sviluppatore appassionato di tecnologia e creazione di progetti digitali.
+Ciao! Sono **Apon**, uno sviluppatore appassionato di tecnologia e di progetti per community Minecraft.
 
-Ho iniziato programmando in **Python** e oggi sto ampliando le mie competenze con **Node.js**, **Java** e lo sviluppo web. Mi piace costruire bot, automazioni, plugin e strumenti realmente utili, imparando attraverso progetti concreti e nuove sfide.
+Ho iniziato con **Python**, poi sono passato a **Node.js** e oggi scrivo soprattutto plugin **Java** per server Minecraft: staff mode, hub, anticheat e integrazioni con i proxy. Imparo costruendo progetti concreti, che girano davvero su un server.
 
-- 🔭 Lavoro su bot, automazioni e progetti per community Minecraft
-- 🌱 Sto approfondendo **Node.js**, **Java** e lo sviluppo backend
+- 🔭 Sviluppo plugin per server Minecraft e bot per Discord
+- 🌱 Sto approfondendo **Java**, **Node.js** e lo sviluppo backend
 - 🧩 Mi piace risolvere problemi e trasformare idee in codice
-- 🎯 Il mio obiettivo è creare software sempre più completo, sicuro e professionale
+- 🎯 Voglio scrivere software sempre più solido, sicuro e ben documentato
 - 💬 Sono aperto a collaborazioni, feedback e nuove opportunità
 
 ---
 
-## 🚀 What I'm Building
-
-- 🤖 **Discord Bot** — automazione, moderazione e gestione delle community
-- ⛏️ **Minecraft Tools & Plugins** — funzionalità personalizzate per server Minecraft
-- 🐍 **Python Projects** — script, utility e automazioni
-- 🟢 **Node.js Applications** — bot, API e servizi backend
-- ☕ **Java Projects** — studio e sviluppo di plugin e applicazioni
-- 🌐 **Web Projects** — interfacce e siti con HTML e CSS
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java,js,html,css" alt="Python, Node.js, Java, JavaScript, HTML and CSS" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,discord,bots" alt="Git, GitHub, VS Code, npm, Discord and bots" />
-</p>
-
-> **Currently learning:** sto consolidando le mie competenze in Node.js e Java attraverso la pratica e lo sviluppo di nuovi progetti.
-
----
-
-## 📌 Featured Projects
+## 📌 Progetti in evidenza
 
 <div align="center">
 
-<a href="https://github.com/ImApon877/LightningGrim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImApon877&repo=LightningGrim&theme=tokyonight&hide_border=true" alt="LightningGrim repository" />
+<a href="https://github.com/ImApon877/LightningGrimAddons">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImApon877&repo=LightningGrimAddons&theme=tokyonight&hide_border=true" alt="LightningGrimAddons" />
+</a>
+<a href="https://github.com/ImApon877/TitanHub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImApon877&repo=TitanHub&theme=tokyonight&hide_border=true" alt="TitanHub" />
+</a>
+<a href="https://github.com/ImApon877/GravityStaffMode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImApon877&repo=GravityStaffMode&theme=tokyonight&hide_border=true" alt="GravityStaffMode" />
 </a>
 
 </div>
 
-> Altri progetti sono in arrivo. Dai un'occhiata ai miei [repository](https://github.com/ImApon877?tab=repositories) per seguire i miei progressi.
+| Progetto | Cos'è | Tecnologie |
+| --- | --- | --- |
+| ⚡ [**LightningGrimAddons**](https://github.com/ImApon877/LightningGrimAddons) | Fork di GrimAC/LightningGrim: nuovi controlli (WallHit, EntityPierce, packet order), integrazioni per lo staff e un bridge per i ban di rete su Velocity e BungeeCord | Java 17, Gradle, Paper, Fabric |
+| 🏰 [**TitanHub**](https://github.com/ImApon877/TitanHub) | Plugin per la lobby: navigator verso i server del proxy, player hider, PvP nell'hub, doppio salto, launch pad, scoreboard e tab | Java, Maven, Spigot 1.8+ |
+| 🛡️ [**GravityStaffMode**](https://github.com/ImApon877/GravityStaffMode) | Staff mode in italiano: vanish, invsee, freeze, random TP e volo, con l'inventario dello staff salvato su disco | Java, Maven, Spigot 1.8+ |
+
+> Altri progetti sono in arrivo: segui i miei [repository](https://github.com/ImApon877?tab=repositories) per vedere i progressi.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Su cosa lavoro
+
+- ⛏️ **Plugin Minecraft**: funzionalità su misura per server Spigot, Paper e proxy
+- 🤖 **Bot Discord**: automazione, moderazione e gestione delle community
+- 🐍 **Progetti Python**: script, utility e automazioni
+- 🟢 **Applicazioni Node.js**: bot, API e servizi backend
+- 🌐 **Progetti web**: interfacce e siti con HTML e CSS
+
+---
+
+## 🛠️ Tecnologie
+
+### Linguaggi
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,js,html,css" alt="Java, Python, Node.js, JavaScript, HTML e CSS" />
+</p>
+
+### Strumenti
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,maven,gradle,idea,vscode,npm,discord" alt="Git, GitHub, GitHub Actions, Maven, Gradle, IntelliJ IDEA, VS Code, npm e Discord" />
+</p>
+
+> **Sto imparando:** architettura dei plugin, test automatici e sviluppo backend con Node.js e Java.
+
+---
+
+## 📊 Statistiche GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImApon877&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Apon's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImApon877&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImApon877&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Statistiche GitHub di Apon" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImApon877&layout=compact&theme=tokyonight&hide_border=true" alt="Linguaggi più usati" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImApon877&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImApon877&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImApon877&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImApon877&theme=tokyo-night&hide_border=true&area=true" alt="Grafico delle attività" />
 
 </div>
 
 ---
 
-## 🎯 My Goals
+## 🐍 Contributi
 
-- Migliorare ogni giorno in **Python**, **Node.js** e **Java**
-- Sviluppare progetti completi, utili e ben documentati
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImApon877/ImApon877/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/github-contribution-grid-snake.svg" alt="Serpente dei contributi" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImApon877/ImApon877/output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/pacman-contribution-graph.svg" alt="Pac-Man dei contributi" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Obiettivi
+
+- Migliorare ogni giorno in **Java**, **Python** e **Node.js**
+- Pubblicare plugin completi, testati e ben documentati
 - Imparare a progettare API e applicazioni backend
 - Contribuire a progetti open source
 - Collaborare con altri developer e crescere insieme
 
 ---
-
-## 🐍 Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ImApon877/ImApon877/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</div>
-
----
-
-## 💭 Favorite Quote
 
 <div align="center">
 
@@ -118,6 +139,6 @@ Ho iniziato programmando in **Python** e oggi sto ampliando le mie competenze co
 
 ### ⭐ Grazie per aver visitato il mio profilo!
 
-<img src="https://komarev.com/ghpvc/?username=ImApon877&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ImApon877&label=Visite%20al%20profilo&color=00BFFF&style=for-the-badge" alt="Visite al profilo" />
 
 </div>

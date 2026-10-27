@@ -1,9 +1,15 @@
-name: Generate Snake
+name: Generate contribution graphs
+
+# Snake and Pac-Man are generated in the same job: the deploy step replaces the whole
+# output branch, so two separate workflows would delete each other's files.
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/generate-contribution-graphs.yml]
 
 permissions:
   contents: write
@@ -11,9 +17,12 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
+
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ImApon877
 
       - uses: Platane/snk@v3
         with:
